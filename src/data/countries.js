@@ -1,0 +1,24 @@
+export const countries = [
+  { name: 'India', capital: 'New Delhi', continent: 'Asia', population: '1.43 Billion', flag: '🇮🇳', currency: 'Indian Rupee', language: 'Hindi, English and others', description: 'Discover ancient traditions, diverse cultures, beautiful landscapes and incredible history.', image: 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800' },
+  { name: 'Japan', capital: 'Tokyo', continent: 'Asia', population: '124 Million', flag: '🇯🇵', currency: 'Japanese Yen', language: 'Japanese', description: 'Experience a unique blend of ancient traditions and futuristic technology.', image: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800' },
+  { name: 'France', capital: 'Paris', continent: 'Europe', population: '68 Million', flag: '🇫🇷', currency: 'Euro', language: 'French', description: 'Explore romantic cities, art, architecture and world-famous cuisine.', image: 'https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800' },
+  { name: 'Italy', capital: 'Rome', continent: 'Europe', population: '59 Million', flag: '🇮🇹', currency: 'Euro', language: 'Italian', description: 'Discover Roman history, Renaissance art and beautiful coastal towns.', image: 'https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800' },
+  { name: 'United States', capital: 'Washington, D.C.', continent: 'North America', population: '340 Million', flag: '🇺🇸', currency: 'US Dollar', language: 'English (widely used)', description: 'Explore diverse cities, national parks and iconic landmarks.', image: 'https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800' },
+  { name: 'Canada', capital: 'Ottawa', continent: 'North America', population: '41 Million', flag: '🇨🇦', currency: 'Canadian Dollar', language: 'English and French', description: 'Discover vast forests, beautiful lakes and spectacular mountains.', image: 'https://images.unsplash.com/photo-1517935706615-2717063c2225?w=800' },
+  { name: 'Brazil', capital: 'Brasilia', continent: 'South America', population: '212 Million', flag: '🇧🇷', currency: 'Brazilian Real', language: 'Portuguese', description: 'Explore the Amazon rainforest, vibrant culture and beautiful beaches.', image: 'https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=800' },
+  { name: 'Argentina', capital: 'Buenos Aires', continent: 'South America', population: '46 Million', flag: '🇦🇷', currency: 'Argentine Peso', language: 'Spanish', description: 'Experience spectacular mountains, tango and incredible landscapes.', image: 'https://images.unsplash.com/photo-1589909202802-8f4aadce1849?w=800' },
+  { name: 'Egypt', capital: 'Cairo', continent: 'Africa', population: '116 Million', flag: '🇪🇬', currency: 'Egyptian Pound', language: 'Arabic', description: 'Discover ancient pyramids, historic temples and the Nile River.', image: 'https://images.unsplash.com/photo-1539768942893-daf53e448371?w=800' },
+  { name: 'South Africa', capital: 'Pretoria', continent: 'Africa', population: '64 Million', flag: '🇿🇦', currency: 'South African Rand', language: 'Multiple official languages', description: 'Discover wildlife, dramatic coastlines and extraordinary landscapes.', image: 'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800' },
+  { name: 'Australia', capital: 'Canberra', continent: 'Oceania', population: '27 Million', flag: '🇦🇺', currency: 'Australian Dollar', language: 'English (widely used)', description: 'Explore the Great Barrier Reef, unique wildlife and stunning beaches.', image: 'https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=800' },
+  { name: 'New Zealand', capital: 'Wellington', continent: 'Oceania', population: '5.3 Million', flag: '🇳🇿', currency: 'New Zealand Dollar', language: 'English, Maori and NZ Sign Language', description: 'Discover spectacular mountains, lakes and beautiful natural scenery.', image: 'https://images.unsplash.com/photo-1469521669194-babb45599def?w=800' },
+]
+
+export const continents = [
+  { name: 'Asia', emoji: '🌏', countries: '49', image: 'https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?w=700' },
+  { name: 'Europe', emoji: '🏰', countries: '44', image: 'https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=700' },
+  { name: 'Africa', emoji: '🦁', countries: '54', image: 'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=700' },
+  { name: 'North America', emoji: '🌎', countries: '23', image: 'https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=700' },
+  { name: 'South America', emoji: '🌴', countries: '12', image: 'https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=700' },
+  { name: 'Oceania', emoji: '🏝️', countries: '14', image: 'https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=700' },
+  { name: 'Antarctica', emoji: '❄️', countries: '0 sovereign countries', image: 'https://images.unsplash.com/photo-1517783999520-f068d7431a60?w=700' },
+]
